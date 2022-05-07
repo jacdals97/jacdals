@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -21,7 +21,7 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: true
+    exclude_featured: false
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
@@ -36,6 +36,4 @@ design:
   columns: '1'
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+
