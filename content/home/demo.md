@@ -19,4 +19,4 @@ design:
   columns: "1"
 ---
 
-<iframe height="200" width="100%" frameborder="no" src="https://valuefromtext.shinyapps.io/Sentida_v1_shiny_demo/"> </iframe>
+<iframe height="250" width="100%" frameborder="no" src="https://valuefromtext.shinyapps.io/Sentida_v1_shiny_demo/"> </iframe>
