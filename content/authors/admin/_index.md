@@ -1,27 +1,23 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Msc, Data Science
+    institution: IT University of Copenhagen
+    year: 2021-
+  - course: BSc, Cognitive Science and Mathematics
+    institution: Aarhus University
+    year: 2018-2021
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Social Science
+- Natural Language Processing
+- Sustainability
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: KMD
+  url: https://www.kmd.net/
+role: Student data scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,22 +27,23 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Jacdals97
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=2GMbqY0AAAAJ&hl=da
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jacdals97
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/jacob-aarup-dalsgaard-78b573119/
 superuser: true
-title: Alice Bighetti (吳恩達)
+title: Jacob Aarup Dalsgaard
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jacob Aarup Dalsgaard is a data science master's student who is interested in the data-centric study of social interactions and how these can be leveraged to bring about change. In this line of work, he has modelled the effect of team diversity in complex problem solving, studied how the pragmatics of conversations shape interpersonal alignment and investigated the potential for algorithms to monitor interactions on social media.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is an entrepreneur by heart and has helped develop open-source natural language processing resources in danish and used the tools in his NLP-consulting start-up. Finally he is passionate about social and environmental sustainability and has competed in several case competitions.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
