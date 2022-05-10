@@ -135,7 +135,7 @@ map:
 marketing:
   google_analytics: ''
   google_tag_manager: ''
-  google_site_verification: ''
+  google_site_verification: 'google-site-verification=_wceJN9R_9lXPFnWAOIDMJqecGuLCeckVT5tc-ApvrY'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
