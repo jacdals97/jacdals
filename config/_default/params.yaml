@@ -15,7 +15,7 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+description: 'Data science at IT University of Copenhagen and KMD'
 twitter: 'Jacdals97'
 
 # Contact (edit or remove options as required)
@@ -135,7 +135,7 @@ map:
 marketing:
   google_analytics: ''
   google_tag_manager: ''
-  google_site_verification: 'google-site-verification=_wceJN9R_9lXPFnWAOIDMJqecGuLCeckVT5tc-ApvrY'
+  google_site_verification: 'google-site-verification=ZvWyIm4iyloQ7mSySuJLW4_AJ0f9d5qdxnjiKtVjheo'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
